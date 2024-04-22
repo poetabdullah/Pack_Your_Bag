@@ -30,10 +30,6 @@ To get started with Pack Your Bag, follow these steps:
 
 Contributions are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 This project was inspired from YouTube Channel BTechDays.
 
