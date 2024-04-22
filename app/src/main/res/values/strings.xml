@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pack_Your_Bag</string>
+    <string name="enter_your_item">Enter your item...</string>
+    <string name="my_selections">My Selections</string>
+    <string name="create_custom_list">Create Custom List</string>
+    <string name="reset_to_default">Reset to Default</string>
+    <string name="delete_default_data">Delete Default Data</string>
+    <string name="about_us">About us</string>
+    <string name="exit">Exit</string>
+    <string name="search">Search</string>
+    <string name="https_www_threads_net_poet_abdullah">https://www.threads.net/@poet.abdullah</string>
+    <string name="star_1">Star 1</string>
+    <string name="pack_your_bag">Pack Your Bag</string>
+    <string name="from">from</string>
+    <string name="abdullah_imran">Abdullah Imran</string>
+    <string name="pakistan_zindabad">Pakistan, Zindabad!</string>
+</resources>
